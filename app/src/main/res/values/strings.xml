@@ -5,5 +5,4 @@
     <string name="err_email">Enter a valid email address</string>
     <string name="err_password">Password must be at least 6 characters</string>
     <string name="err_match">Passwords do not match</string>
-
 </resources>
